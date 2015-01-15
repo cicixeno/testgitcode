@@ -5,7 +5,7 @@ public class DemoGit
    {
       // TODO Auto-generated method stub
       System.out.println("Hello Git! yes");
-      System.out.println("we try it");
+      System.out.println("we try it second time");
 
    }
 }
